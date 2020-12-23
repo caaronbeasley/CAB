@@ -1,2 +1,5 @@
 # IDE config files
 .idea
+
+# FTP config files
+sftp-config.json
